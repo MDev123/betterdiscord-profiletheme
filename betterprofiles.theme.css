@@ -2,17 +2,19 @@
 * @name Better Profiles
 * @author kno
 * @version 1.0.0
-* @description Better User Profiles - Mixed with different templates to make it way better
+* @description Better User Profiles - Mixed with other people's creations to make it way better
+* invite PCcTegG8nU
 * @source https://github.com/MDev123/betterdiscord-profiletheme
 * @updateUrl https://github.com/MDev123/betterdiscord-profiletheme/blob/main/betterprofiles.theme.css
 */
 
-
+/* 1.7 kb used to be lol */
 @import url("https://dablulite.github.io/accountdetailscolumns/import.css");
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/NormalizedForums.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
 @import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/Touchup.css");
 @import url("https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
 @import url("https://discordstyles.github.io/SoftX/ServerRings.css");
 
 
